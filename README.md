@@ -1,0 +1,2 @@
+# fsds
+foundations_of_spatial_data_science
